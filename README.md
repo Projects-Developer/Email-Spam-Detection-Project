@@ -1,4 +1,4 @@
-# Email-Spam-Detection-Project
+# Email Spam DetectionProject
 Email Spam Detection Project Code, Document And Video Tutorial
 
 ![EMAIL SPAM THUMBNAIL](https://github.com/user-attachments/assets/d7203b57-f9bf-4c26-9487-f6f5c28065a2)
